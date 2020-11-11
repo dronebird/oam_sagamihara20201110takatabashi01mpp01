@@ -1,7 +1,7 @@
 # oam_sagamihara20201110takatabashi01mpp01
 ### 2020年11月10日　相模原市高田橋訓練　空撮データ
 
-![高田橋](/image/takatabashi.png)
+![高田橋](/takatabashi.png)
 
 # 各種ＵＲＬ
 ### * [OAM](https://map.openaerialmap.org/#/139.5648193359375,35.746512259918504,7/square/133002112?_k=w3kyo8)
